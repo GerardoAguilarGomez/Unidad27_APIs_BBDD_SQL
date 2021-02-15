@@ -63,4 +63,4 @@ DELETE    /api/Suministras/{id}
 ```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
-https://github.com/GerardoAguilarGomez/Unidad27_APIs_BBDD_SQL/issues/1#issue-807173934
+![image](https://user-images.githubusercontent.com/76479548/107931065-18584d00-6f7c-11eb-93bd-98a98abbc244.png)
