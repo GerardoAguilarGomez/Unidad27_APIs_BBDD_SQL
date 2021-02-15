@@ -243,3 +243,4 @@ DELETE    /api/Reservas/{id}
 ```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
+![image](https://user-images.githubusercontent.com/76479548/107979075-2f1f9380-6fbe-11eb-806d-7b26c92daf09.png)
